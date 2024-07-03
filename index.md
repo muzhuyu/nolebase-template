@@ -2,13 +2,13 @@
 layout: home
 sidebar: false
 
-title: Nólëbase
-titleTemplate: 记录回忆，知识和畅想的地方
+title: 沐竹雨的学习生活
+titleTemplate: 学习，应该是让人快乐的一件事吧？
 
 hero:
-  name: g~Nj$3J2^
-  text: 记录回忆，知识和畅想的地方
-  tagline: 以 Nólëbase 为名，读作 nole-base，取自意为「知识」的昆雅语 nólë 和意为「基础」的英文 base，即「知识库」
+  name: 沐竹雨
+  text: 学习，应该是让人快乐的一件事吧？
+  tagline: 沐浴在淅淅沥沥的雨声中，希望自己像竹子一样坚韧不拔。
   image:
     src: /logo.svg
     alt: Vitest
